@@ -1,1 +1,1 @@
-# this is a CSS homework on [patika](patika.dev) 
+# this is a Bootstrap homework on [patika](patika.dev) 
